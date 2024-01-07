@@ -1,0 +1,9 @@
+#include<stdio.h>
+#include<stdlib.h>
+
+char str[10];
+int main() {
+    strcpy(str,"hello world");
+
+    return 0;
+}
